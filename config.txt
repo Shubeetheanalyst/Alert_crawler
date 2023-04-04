@@ -1,0 +1,7 @@
+{
+'email' :  'testingforcode71@gmail.com',
+'password': 'nxol npsi xhux uvxq',
+
+'Rec_email' : 'hafizsohaib478@gmail.com',
+'excel_file_path':r"C:\Users\hp\Music\Alert Crawler\Crawler Source Sites-1.csv"
+}
